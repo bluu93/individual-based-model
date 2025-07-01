@@ -1,5 +1,5 @@
 # individual-based-model
-This project is adapted from my final project submission for **<ins>BIOL 563 - Computer Modeling in Biology<ins>** at California State University, Long Beach, taken in Spring 2024 with Dr. Darren Johnson.
+This project is adapted from my final project submission for [BIOL 563 - Computer Modeling in Biology](http://catalog.csulb.edu/preview_course.php?catoid=8&coid=68741&print) at California State University, Long Beach, taken in Spring 2024 with Dr. Darren Johnson.
 A simulation of predator-prey dynamics of hornets and bees is used to explore the concepts of individual-based modeling.
 It is worth noting that although the simulation is not based upon experimental data, there is still reliance on reasonable assumptions that encourage and discourage interactions for: bees-flowers and bees-hornets.
 
